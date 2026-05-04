@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Credentials
+credentials.txt
+
+# Environment
+.env
+
+# Build
+build/
+dist/
